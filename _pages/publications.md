@@ -18,6 +18,9 @@ author_profile: false
 #### Journals articles
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
+**Rahimi, F.**, and H. Rezaei. [A Distributed Fault Estimation Approach for a Class of Continuous-time Nonlinear Networked Systems Subject to Communication Delays](https://ieeexplore.ieee.org/abstract/document/9397783){:style="color: blue"}. *IEEE Control Systems Letters*, 6 (2021): 295-300.
+
+{: .text-justify style="font-size: 12pt" reversed="reversed"}
 **Rahimi, F.**, and H. Rezaei. ["A Distributed Fault Estimation Approach for a Class of Continuous-time Nonlinear Networked Systems Subject to Communication Delays,"],  *IEEE Control Systems Letters*, 6 (2021): 295-300.(https://ieeexplore.ieee.org/abstract/document/9397783). 
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
