@@ -44,10 +44,14 @@ Rezaei, H., Farnam, A., **Rahimi. F,** and Guillaume. C. [A Scalable Distributed
 #### Conferences proceedings
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina**, Y. Chen, A. Bernstein and E. Dall'Anese. ["Learning-Based Demand Response in Grid-Interactive Buildings via Gaussian Processes,"](https://pscc.epfl.ch/rms/modules/request.php?module=oc_program&action=summary.php&id=2155) *Electric Power Systems Research Journal (XXII Power System Computation Conference)*, June 27th -- July 1st 2022. Porto, Portugal. To Appear.
+**Rahimi, F.**, and Reza Mahboobi Esfanjani. [Distributed predictive control for formation of networked mobile robots](https://ieeexplore.ieee.org/abstract/document/8657625){:style="color: blue"}. *6th RSI International Conference on Robotics and Mechatronics (IcRoM)*. pp. 70-75. IEEE, 2018.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina**, A. Simonetto and E. Dall’Anese. ["Personalized Demand Response via Shape-Constrained Online Learning,"](https://ieeexplore.ieee.org/document/9303020) *2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm) (IEEE SmartGridComm’20)*, November 11-13, 2020. Virtual Conference.
+**Rahimi, F.**, and Reza Mahboobi Esfanjani. [A Distributed Dual Decomposition Optimization Approach for Coordination of Mobile Networked Robots with Communication Delay](https://ieeexplore.ieee.org/abstract/document/9663474){:style="color: blue"}. *2021 9th RSI International Conference on Robotics and Mechatronics (IcRoM)*. IEEE, 2021.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina** and M. Kezunovic. ["A Data-Driven Framework for Optimal Placement of Grid-Connected Solar Generation,"](https://ieeexplore.ieee.org/document/8974128?signout=success) *2019 IEEE Power & Energy Society General Meeting*. August 4-8, 2019. Atlanta, GA USA.
+ **Rahimi, F.** [Distributed Control for Nonlinear Multi-Agent Systems Subject to Communication Delays and Cyber-Attacks: Applied to One-Link Manipulators](https://ieeexplore.ieee.org/abstract/document/9663446){:style="color: blue"}. *2021 9th RSI International Conference on Robotics and Mechatronics (IcRoM)*. IEEE, 2021.
+
+{: .text-justify style="font-size: 12pt" reversed="reversed"}
+**Rahimi. F.**, Ziaee. S. ,[Reinforcement learning-based optimized control for tracking of nonlinear systems with adversarial attacks](https://doi.org/10.48550/arXiv.2209.02165){:style="color: blue"}.
+
