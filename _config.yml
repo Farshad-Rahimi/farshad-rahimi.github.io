@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ana M. Ospina"
+title                    : "Farshad Rahimi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ana M. Ospina"
-description              : "Ana's personal website."
+name                     : "Farshad Rahimi"
+description              : "Farshad's personal website."
 url                      : "https://farshad-rahimi.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Farshad-Rahimi/farshad-rahimi.github.io"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ana M. Ospina"
+  name             : "Farshad Rahimi"
   avatar           : "/assets/images/AnaOspina_photo.jpg"
   bio              : "**Ph.D. Candidate**<br/>
   *Electrical, Computer and Energy Engineering*<br/>
