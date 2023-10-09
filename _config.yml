@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "AnaOspinaS"
+  username               : "Farshad Rahimi"
 facebook:
   username               :
   app_id                 :
@@ -104,10 +104,10 @@ author:
   name             : "Farshad Rahimi"
   avatar           : "/assets/images/AnaOspina_photo.jpg"
   bio              : "**Ph.D. Candidate**<br/>
-  *Electrical, Computer and Energy Engineering*<br/>
-  University of Colorado, Boulder <br/>
+  *Master of Control Engineering*<br/>
+     <br/>
   
-  **Email:** ana.ospina@colorado.edu
+  **Email:** rahimifarshad14@gmail.com
   "
   location         : 
   email            : 
@@ -132,7 +132,7 @@ author:
     #  # url: "https://instagram.com/"
     - label: "Google Scholar"
       icon: "fas fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=AmUr3CcAAAAJ"
+      url: "https://scholar.google.com/citations?hl=en&user=KOzMTRsAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ana-ma-ospina/"
