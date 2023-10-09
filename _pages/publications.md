@@ -9,10 +9,10 @@ author_profile: false
 #### Pre-prints
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**F. Rahimi**."An unknown input method-based distributed fault estimation for interconnect heterogeneous multi-agent systems,", 2023,under completing.
+**F. Rahimi**."An unknown input method-based distributed fault estimation for interconnect heterogeneous multi-agent systems.,", 2023,under completing.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina**, A. Simonetto and E. Dall’Anese. ["Time-Varying Optimization of Networked Systems with Human Preferences,"](https://arxiv.org/pdf/2103.13470.pdf) submitted March 2021, under review. 
+**F. Rahimi**. " A distributed optimal controller for DC-isolated microgrids powered by renewable energy sources with switching communication topology," 2023, under completing. 
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Journals articles
