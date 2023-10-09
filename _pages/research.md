@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: false
 ---
 
-### Data-Driven Optimization and Learning
+### Distributed Optimization and Learning
 
 {: .text-justify style="font-size: 15pt" reversed="reversed"}
-**Distributed Online Optimization with Learning**
+**Estimating tolerable communication delays for distributed optimization problems in control of heterogeneous multi-agent systems**
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-| <img src="/assets/images/TV_network.png" width="2800px" alt="TV_network"> | Networked systems that interact with single or multiple users are becoming more and more complex. In this type of interaction, it is common to have complete (or partial) knowledge of the physical or operational limits of the network, and uncertainties regarding the preferences of the users. In order to solve optimization problems that involve time-varying objectives from the network and goals for multiple users, we investigated a distributed online optimization algorithm with concurrent learning of the users' functions, i.e., we focus on an online consensus-based algorithm. The online algorithm is based on a primal-dual method, properly modified to accommodate feedback from the users and measurements from the network. Numerical results are  presented in this [pre-print](https://arxiv.org/pdf/2103.13470.pdf) in the context of real-time management of distributed energy resources. |
+| <img src="/assets/images/opt1.png" width="2800px" alt="TV_network"> | This study addresses the problem of distributed optimization in control of heterogeneous linear multi-agent systems. Instead of assuming a perfect communication medium as in many existing approaches, we consider two important issues arising from communication networks. First, we assume the existence of communication delays when each agent receives information from its neighbors. Second, since communication networks are generally unreliable, we assume that each agent interacts with other agents through random digraphs. Finally, we derive delay-dependent sufficient conditions in the form of linear matrix inequalities (LMIs) to prove convergence to optimal solutions. |
+
+{: .text-justify style="font-size: 15pt" reversed="reversed"}
 
 {: .text-justify style="font-size: 15pt" reversed="reversed"}
 **Online Optimization with Infrequent Feedback**
