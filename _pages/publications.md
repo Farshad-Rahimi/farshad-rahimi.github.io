@@ -9,8 +9,7 @@ author_profile: false
 #### Pre-prints
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**A. M. Ospina**, K. Baker and E. Dall’Anese. ["Estimation of Power System Sensitivities: Low-rank
-Approach and Online Algorithms,"](https://arxiv.org/pdf/2006.16346.pdf) submitted May 2021, under review.
+**F. Rahimi**.["An unknown input method-based distributed fault estimation for interconnect heterogeneous multi-agent systems.,"], 2023,under completing.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **A. M. Ospina**, A. Simonetto and E. Dall’Anese. ["Time-Varying Optimization of Networked Systems with Human Preferences,"](https://arxiv.org/pdf/2103.13470.pdf) submitted March 2021, under review. 
