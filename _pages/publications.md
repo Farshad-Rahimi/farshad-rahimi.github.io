@@ -7,8 +7,8 @@ author_profile: false
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Pre-prints
-
-{: .text-justify style="font-size: 12pt" reversed="reversed"} M. Pirani, **F. Rahimi**."Game-Theoretic Security-Aware Network Formation of Multi-Agent Systems.,",under completing.
+{: .text-justify style="font-size: 12pt" reversed="reversed"}
+ M. Pirani, **F. Rahimi**."Game-Theoretic Security-Aware Network Formation of Multi-Agent Systems.,",under completing.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **F. Rahimi**."An unknown input method-based distributed fault estimation for interconnect heterogeneous multi-agent systems.,", 2023,under completing.
