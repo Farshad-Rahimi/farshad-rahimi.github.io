@@ -18,7 +18,8 @@ Yalmip Toolbox must be added to Matlab.\\
 https://yalmip.github.io/download/\\
 How to Install a MATLAB toolbox?\\
 https://www.osc.edu/resources/getting_started/howto/howto_install_a_matlab_toolbox\\
-After that, you can run the attached codes url: /assets/docs/CodeprogrammingMatlab_example2_2. 
+After that, you can run the attached codes. 
+- [Matlab_Codes](/assets/docs/CodeprogrammingMatlab_example2_2.rar) 
 
 
 
